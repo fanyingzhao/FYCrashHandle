@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BBBEBDA-9193-4D25-8F78-AF3B821C6E95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>闪退</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F159E3EF0B4D4CF0CCBB609CBA0D40BF6E0910C</key>
+		<string>https://github.com/fanyingzhao/FYCrashHandle.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>闪退.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F159E3EF0B4D4CF0CCBB609CBA0D40BF6E0910C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fanyingzhao/FYCrashHandle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F159E3EF0B4D4CF0CCBB609CBA0D40BF6E0910C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F159E3EF0B4D4CF0CCBB609CBA0D40BF6E0910C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FYCrashHandle</string>
+		</dict>
+	</array>
+</dict>
+</plist>

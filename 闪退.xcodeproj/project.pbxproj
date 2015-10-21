@@ -16,6 +16,7 @@
 		041718381BD6338100D9A859 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 041718361BD6338100D9A859 /* LaunchScreen.xib */; };
 		041718441BD6338100D9A859 /* __Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 041718431BD6338100D9A859 /* __Tests.m */; };
 		0417184F1BD6363400D9A859 /* FYUncaughtExceptionHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 0417184E1BD6363400D9A859 /* FYUncaughtExceptionHandler.m */; };
+		04D69D431BD75D7100E72358 /* TempView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D69D421BD75D7100E72358 /* TempView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,8 @@
 		041718431BD6338100D9A859 /* __Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __Tests.m; sourceTree = "<group>"; };
 		0417184D1BD6363400D9A859 /* FYUncaughtExceptionHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FYUncaughtExceptionHandler.h; sourceTree = "<group>"; };
 		0417184E1BD6363400D9A859 /* FYUncaughtExceptionHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FYUncaughtExceptionHandler.m; sourceTree = "<group>"; };
+		04D69D411BD75D7100E72358 /* TempView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TempView.h; sourceTree = "<group>"; };
+		04D69D421BD75D7100E72358 /* TempView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TempView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				041718291BD6338100D9A859 /* AppDelegate.m */,
 				0417182E1BD6338100D9A859 /* ViewController.h */,
 				0417182F1BD6338100D9A859 /* ViewController.m */,
+				04D69D411BD75D7100E72358 /* TempView.h */,
+				04D69D421BD75D7100E72358 /* TempView.m */,
 				0417184D1BD6363400D9A859 /* FYUncaughtExceptionHandler.h */,
 				0417184E1BD6363400D9A859 /* FYUncaughtExceptionHandler.m */,
 				041718311BD6338100D9A859 /* Main.storyboard */,
@@ -231,6 +236,7 @@
 				0417184F1BD6363400D9A859 /* FYUncaughtExceptionHandler.m in Sources */,
 				0417182A1BD6338100D9A859 /* AppDelegate.m in Sources */,
 				041718301BD6338100D9A859 /* ViewController.m in Sources */,
+				04D69D431BD75D7100E72358 /* TempView.m in Sources */,
 				041718271BD6338100D9A859 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -428,6 +434,7 @@
 				041718491BD6338100D9A859 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0417184A1BD6338100D9A859 /* Build configuration list for PBXNativeTarget "闪退Tests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +443,7 @@
 				0417184C1BD6338100D9A859 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
